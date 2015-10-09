@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChangeSpeech">
+</Property><Property Name="Solution File" Value="E:\project\RS_ARP1.0\Source\ChangeSpeech\ChangeSpeech.sln">
+</Property><Property Name="Date" Value="2014年4月9日">
+</Property><Property Name="Time" Value="9:43">
+</Property></Properties><Event ErrorLevel="0" Project="ChangeSpeech" Source="ChangeSpeech\ChangeSpeech.vcproj" Description="Converting project file 'E:\project\RS_ARP1.0\Source\ChangeSpeech\ChangeSpeech\ChangeSpeech.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ChangeSpeech" Source="ChangeSpeech\ChangeSpeech.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="ChangeSpeech" Source="ChangeSpeech\ChangeSpeech.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="ChangeSpeech" Source="ChangeSpeech\ChangeSpeech.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="ChangeSpeech" Source="ChangeSpeech\ChangeSpeech.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="ChangeSpeech" Source="ChangeSpeech\ChangeSpeech.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="ChangeSpeech" Source="ChangeSpeech\ChangeSpeech.vcproj" Description="Done converting to new project file 'E:\project\RS_ARP1.0\Source\ChangeSpeech\ChangeSpeech\ChangeSpeech.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ChangeSpeech" Source="ChangeSpeech\ChangeSpeech.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChangeSpeech.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ChangeSpeech.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util
+END
+rms.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/rms.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/Makefile.in
+END
+rms.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/rms.h
+END
+biquad.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/biquad.h
+END
+blo.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/blo.c
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/buffer.h
+END
+waveguide_nl.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/waveguide_nl.h
+END
+pitchscale.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/pitchscale.c
+END
+blo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/blo.h
+END
+iir.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/iir.c
+END
+pitchscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/pitchscale.h
+END
+db.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/db.c
+END
+ls_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/ls_filter.h
+END
+iir.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/iir.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/Makefile.am
+END
+db.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RS_ARP1.0/!svn/ver/86/Source/ChangeSpeech/ChangeSpeech/Source/util/db.h
+END
